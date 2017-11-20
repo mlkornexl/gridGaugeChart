@@ -1,0 +1,15 @@
+Package: gridGaugeChart
+Type: Package
+Title: Gauge Charts Using Grid
+Version: 0.1.0
+Author: Matthias Kornexl
+Maintainer: Matthias Kornexl <mk@iib.at>
+Description: The package provides a function to plot simple gauge
+    charts. It mimics the features of the flexdashboards-package's
+    gaugeChart function to produce gauge charts for any output
+    device supported by R's standard graphics facilities.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: grid
